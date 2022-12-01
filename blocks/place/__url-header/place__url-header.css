@@ -1,0 +1,16 @@
+.place__url-header {
+  max-width: 50px;
+  font-weight: normal;
+  font-style: normal;    
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #aaaaaa;
+  margin: 0 0 8px 0;
+}  
+@media screen and (max-width: 320px) {
+  .place__url-header {
+    margin: 0 0 12px 0;
+  }
+}
+  
